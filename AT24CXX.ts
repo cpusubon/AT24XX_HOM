@@ -1,14 +1,14 @@
 /**
- * makecode AT24CXX EEPROM Package.
+ * makecode AT24Cxxx EEPROM Package.
  * From microbit/micropython Chinese community.
  * http://www.micropython.org.cn
  */
 
 /**
- * AT24CXX block
+ * AT24CXXHOM block
  */
 //% weight=100 color=#303030 icon="\uf2db" block="AT24CXX"
-namespace AT24CXX {
+namespace AT24CXXHOM {
     let AT24_I2C_ADDR = 0xA0;
 
     /**
