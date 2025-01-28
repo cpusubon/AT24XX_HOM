@@ -9,7 +9,7 @@
  */
 //% weight=100 color=#303030 icon="\uf2db" block="AT24CXX"
 namespace AT24CXX {
-    let AT24_I2C_ADDR = 80;
+    let AT24_I2C_ADDR = 0xA0;
 
     /**
      * write a byte to special address
