@@ -1,5 +1,5 @@
 {
-    "name": "AT24CXX",
+    "name": "AT24CXXHOM",
     "version": "1.0.0",
     "description": "makecode AT24CXX eeprom Package for micro:bit, From microbit/micropython Chinese community",
     "license": "MIT",
