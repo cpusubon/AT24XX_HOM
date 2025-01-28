@@ -7,7 +7,7 @@
 /**
  * AT24CXXHOM block
  */
-//% weight=100 color=#303030 icon="\uf2db" block="AT24CXX"
+//% weight=100 color=#303030 icon="\uf2db" block="AT24CXXX"
 namespace AT24CXXHOM {
     let AT24_I2C_ADDR = 160;
 
